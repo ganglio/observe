@@ -1,6 +1,6 @@
 # Observe
 
-Observe is a super-simple Onbserver implementation in Typescript. It's not meant to be used in production or anywhere near production and it's just a Spaß.
+Observe is a super-simple Observer implementation in Typescript. It's not meant to be used in production or anywhere near production and it's just a Spaß.
 
 ## Features
 
